@@ -10,7 +10,7 @@ import { toast } from '@/hooks/use-toast';
 const contactInfo = [
   { icon: MapPin, title: 'Address', content: '123 News Street, Media City, NY 10001' },
   { icon: Phone, title: 'Phone', content: '+1 (555) 123-4567' },
-  { icon: Mail, title: 'Email', content: 'contact@newsportal.com' },
+  { icon: Mail, title: 'Email', content: 'contact@varthetime.com' },
 ];
 
 export default function Contact() {

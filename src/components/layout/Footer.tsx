@@ -32,9 +32,9 @@ export function Footer() {
           <div className="space-y-4">
             <Link to="/" className="flex items-center gap-2">
               <div className="w-10 h-10 rounded-lg bg-primary flex items-center justify-center">
-                <span className="text-primary-foreground font-bold text-xl">N</span>
+                <span className="text-primary-foreground font-bold text-xl">V</span>
               </div>
-              <span className="font-display font-bold text-xl text-foreground">NewsPortal</span>
+              <span className="font-display font-bold text-xl text-foreground">Varthe Time</span>
             </Link>
             <p className="text-muted-foreground text-sm leading-relaxed">
               Your trusted source for breaking news, in-depth analysis, and comprehensive coverage across all topics that matter.
@@ -101,7 +101,7 @@ export function Footer() {
               </li>
               <li className="flex items-center gap-3 text-sm text-muted-foreground">
                 <Mail className="h-4 w-4 flex-shrink-0" />
-                <span>contact@newsportal.com</span>
+                <span>contact@varthetime.com</span>
               </li>
             </ul>
           </div>
@@ -109,7 +109,7 @@ export function Footer() {
 
         <div className="mt-12 pt-8 border-t border-border flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} NewsPortal. All rights reserved.
+            © {new Date().getFullYear()} Varthe Time. All rights reserved.
           </p>
           <div className="flex gap-6 text-sm text-muted-foreground">
             <a href="#" className="hover:text-primary transition-colors">Privacy Policy</a>

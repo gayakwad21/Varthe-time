@@ -29,7 +29,7 @@ export default function About() {
             className="max-w-3xl mx-auto text-center"
           >
             <h1 className="font-display text-4xl md:text-5xl lg:text-6xl font-bold text-primary-foreground mb-6">
-              About NewsPortal
+              About Varthe Time
             </h1>
             <p className="text-primary-foreground/80 text-lg md:text-xl">
               Your trusted source for breaking news and in-depth journalism since 2010
@@ -55,7 +55,7 @@ export default function About() {
                 Delivering Truth in the Digital Age
               </h2>
               <p className="text-muted-foreground text-lg leading-relaxed mb-6">
-                At NewsPortal, we believe in the power of accurate, timely, and unbiased journalism. Our mission is to keep you informed about the events shaping our world, from local stories to global developments.
+                At Varthe Time, we believe in the power of accurate, timely, and unbiased journalism. Our mission is to keep you informed about the events shaping our world, from local stories to global developments.
               </p>
               <p className="text-muted-foreground leading-relaxed">
                 We're committed to upholding the highest standards of journalistic integrity, ensuring that every story we publish has been thoroughly researched and verified. In an era of misinformation, we stand as a beacon of truth and reliability.
@@ -94,7 +94,7 @@ export default function About() {
               A Legacy of Excellence
             </h2>
             <p className="text-muted-foreground text-lg">
-              Founded in 2010, NewsPortal started as a small digital publication with a handful of dedicated journalists. Today, we've grown into one of the most trusted news sources, reaching millions of readers worldwide.
+              Founded in 2010, Varthe Time started as a small digital publication with a handful of dedicated journalists. Today, we've grown into one of the most trusted news sources, reaching millions of readers worldwide.
             </p>
           </motion.div>
           <div className="grid md:grid-cols-4 gap-6 text-center">
